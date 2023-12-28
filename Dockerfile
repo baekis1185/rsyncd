@@ -1,5 +1,4 @@
 FROM alpine
-MAINTAINER Christian Gatzlaff "cgatzlaff@gmail.com"
 
 RUN apk add --no-cache rsync bash
 
